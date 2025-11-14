@@ -66,3 +66,9 @@ h1–h6 – Used to define headings, from largest (h1) to smallest (h6)
 Block Elements start on a new line and take up the full width available stretching from left to right while inline elements do not start on a new line and only take up as much width as the content inside them
 
 Block elements are used for layout and sections while inline elements are used for styling within text
+
+
+
+More Tags that are not in the link above 
+
+div /div - it is a container that hold stuffs. 
